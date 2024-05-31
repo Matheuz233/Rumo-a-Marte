@@ -15,7 +15,7 @@ A seguir, apresento uma demonstração do funcionamento da aplicação.
 1.  Clone o reposiório
 
 ```bash
-  https://github.com/Matheuz233/Stopwatch.git
+  https://github.com/Matheuz233/Rumo-a-Marte.git
 ```
 2. Execute o arquivo index.html 
 ## Feedback 📫
